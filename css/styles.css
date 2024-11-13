@@ -3636,7 +3636,7 @@ img.u-pull-left {
 .folio-list__item-link:hover .folio-list__item-pic::after {
     opacity    : 1;
     visibility : visible;
-    transform  : scale(1);
+    /* transform  : scale(1); this added a + sign, currently it's a dot */
 }
 
 .folio-list__item-link:focus .folio-list__item-text::before,
