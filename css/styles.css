@@ -3443,7 +3443,8 @@ img.u-pull-left {
 }
 
 .about-expertise .skills-list li {
-    display      : inline-block;
+    /* display      : inline-block; */
+    display      : block;
     padding-left : 0;
 }
 
