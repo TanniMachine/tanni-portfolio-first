@@ -4217,6 +4217,11 @@ img.u-pull-left {
     fill : white;
 }
 
+.businessQR {
+    width: 40%;
+    height: 100%;
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * footer
@@ -4234,6 +4239,11 @@ img.u-pull-left {
         top   : calc(var(--vspace-0_25) * -1);
         right : calc(6vw + var(--gutter));
     }
+
+    .businessQR {
+        width: 100%;
+        height: 100%;
+    }
 }
 
 @media screen and (max-width: 400px) {
@@ -4241,3 +4251,4 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+
