@@ -4065,6 +4065,7 @@ img.u-pull-left {
     font-weight : 300;
     line-height : var(--vspace-1_25);
     color       : var(--color-text-light);
+    margin-right: 20px;
 }
 
 .contact-links a,
